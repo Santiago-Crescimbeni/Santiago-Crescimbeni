@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="200" src="[[https://www.behance.net/gallery/107345049/Cyber-Technology-Earth-Globe/modules/615461343](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc644b107345049.5fa4ae1b8c86e.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-jjzmn&psig=AOvVaw0iUSLIvau8FAf_-MTwRaFi&ust=1681512984993000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjvzJP6p_4CFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="200" src="https://e0.pxfuel.com/wallpapers/340/262/desktop-wallpaper-developer.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Santiago Crescimbeni</h1>
@@ -27,5 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-crescimbeni&show_icons=true&locale=en&layout=compact" alt="santiago-crescimbeni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-crescimbeni&show_icons=true&locale=en" alt="santiago-crescimbeni" /></p>
-
 
