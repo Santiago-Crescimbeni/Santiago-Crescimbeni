@@ -9,11 +9,11 @@
 <h3 align="center">Through constant learning and curiosity, I find the possibility of putting my skills as a software developer into practice.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-crescimbeni&label=Profile%20views&color=0e75b6&style=flat" alt="santiago-crescimbeni" /> </p>
+
 
 - 🌱 I am currently learning infrastructure implementation in projects, as well as different frameworks from the front end and back end side. **Aws - React - Spring Boot -Bootstrap -Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Santiago-Crescimbeni- (proximamente en mi link portfolio)](https://github.com/Santiago-Crescimbeni- (proximamente en mi link portfolio))
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/Santiago-Crescimbeni/"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=300&duration=2000&pause=1000&color=1CFF00&background=FF461100&vCenter=true&width=950&lines=https%3A%2F%2Fgithub.com%2FSantiago-Crescimbeni" alt="Typing SVG" /></a>- (coming soon in my portfolio link)]
 
 - 💬 Ask me about **FrontEnd : React.js Bootstrap Webpack StoryBook Redux HTML5 Css3 Scss Flexbox JavaScript JSON Api/Rest Postman UX/UI Figma VSC DOM BackEnd: Poo UML Patrones de diseño Java Spring Boot Maven / Gradle ORM Hibernate Spring MVC Data y Security Rest APIs JWT Swagger SQL (MySql) DAO Log4j MockMVC Python intelliJ idea Más: Git / GitHub Gitlab Scrum Kanban Draw io Docker Scripting (bash-Powershell) CI / CD (jenkins) Testing (funcionales- no funcionales ) Debugging**
 
