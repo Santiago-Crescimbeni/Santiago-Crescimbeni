@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=47FF00&background=FF46112A&vCenter=true&repeat=false&width=435&lines=Hi 👋, I'm Santiago Crescimbeni)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=40&duration=2000&pause=1000&color=47FF00&background=FF46112A&vCenter=true&repeat=false&width=735&lines=Hi+%F0%9F%91%8B%2C+I'm+Santiago+Crescimbeni)](https://git.io/typing-svg)
 
-![SUV4](https://user-images.githubusercontent.com/91988840/232048422-eed24751-6db8-470f-981c-925e2fecf5d3.gif)
+![dc644b107345049 5fa4ae1b8c86e](https://user-images.githubusercontent.com/91988840/232063537-b989850e-9a74-4b75-98bd-9760d046c55f.gif)
 
-<h1 align="center">Hi 👋, I'm Santiago Crescimbeni</h1>
-<h3 align="center">I am a FULL STACK developer from Argentina, through constant learning and curiosity, I find the possibility of putting my skills as a software developer into practice.</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=300&size=30&duration=2000&pause=1000&color=36FF00&background=FF461100&vCenter=true&repeat=false&width=900&lines=%F0%9F%92%BB%3C%3C+I+am+a+FULL+STACK+developer+from+Argentina+%3E%3E%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<h3 align="center">Through constant learning and curiosity, I find the possibility of putting my skills as a software developer into practice.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-crescimbeni&label=Profile%20views&color=0e75b6&style=flat" alt="santiago-crescimbeni" /> </p>
