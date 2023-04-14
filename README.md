@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=40&duration=2000&pause=1000&color=47FF00&background=FF46112A&vCenter=true&repeat=false&width=735&lines=Hi+%F0%9F%91%8B%2C+I'm+Santiago+Crescimbeni)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=300&size=30&duration=2000&pause=1000&color=00E0FF&background=FF461100&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Santiago+Crescimbeni+%3C%F0%9F%92%BB%2F%3E+%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
 
-![dc644b107345049 5fa4ae1b8c86e](https://user-images.githubusercontent.com/91988840/232063537-b989850e-9a74-4b75-98bd-9760d046c55f.gif)
+
 
 
 
