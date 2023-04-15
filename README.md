@@ -1,7 +1,7 @@
 ![dc644b107345049 5fa4ae1b8c86e](https://user-images.githubusercontent.com/91988840/232067272-04c87f48-676b-44cf-8e82-fc88c3397be2.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=9000&pause=1001&color=00F7EC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Santiago+Crescimbeni+%3C%2F%F0%9F%92%BB%3E+%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=9000&pause=1001&color=00F7EC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Santiago+Crescimbeni+%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&duration=10000&pause=1001&color=00F7BB&center=true&vCenter=true&repeat=false&width=900&lines=%3C%F0%9F%92%BB%3EI+am+a+FULL+STACK+developer+from+Argentina%3C%2F%F0%9F%92%BB%3E+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a>
