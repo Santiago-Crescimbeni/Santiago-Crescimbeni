@@ -78,13 +78,14 @@
 
 
 
-- 📫 How to reach me **santi_cp96@hotmail.com - https://www.linkedin.com/in/santiago-crescimbeni/ - 0343**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiago-crescimbeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-crescimbeni" height="30" width="40" /></a>
 <a href="https://instagram.com/santiago-crescimbeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiago-crescimbeni" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=54903534299579&text=Nuevo chat con Santiago Crescimbeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="santiago-crescimbeni" height="30" width="40" /></a>
+  <a href="https://www.hotmail.com" target="blank"> <img align="center" src="https://www.innovacionate.com/images/correo.png" alt="santiago-crescimbeni" height="30" width="40" border-radius="30" />  santi_cp96@hotmail.com</a>
 </p>
 
 
