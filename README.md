@@ -21,7 +21,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=10000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+React)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=10000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+Bootstrap)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=10000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+Webpack)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+StoryBook)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=130&lines=%F0%9F%8C%9F+StoryBook)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+Redux)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+HTML5)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=18F715&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9F+Css3)](https://git.io/typing-svg)
@@ -74,7 +74,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=13000&pause=1001&color=00C8F7&center=true&vCenter=true&repeat=false&width=250&lines=%F0%9F%8C%9FScripting+(bash-Powershell))](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=13000&pause=1001&color=00C8F7&center=true&vCenter=true&repeat=false&width=250&lines=%F0%9F%8C%9FCI+%2F+CD+(jenkins))](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=13000&pause=1001&color=00C8F7&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%8C%9FTesting+(funcionales-+no+funcionales+))](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=13000&pause=1001&color=00C8F7&center=true&vCenter=true&repeat=false&width=100&lines=%F0%9F%8C%9FDebugging)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=1001&color=00C8F7&center=true&vCenter=true&repeat=false&width=130&lines=%F0%9F%8C%9FDebugging)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&duration=15000&pause=100&color=00C8F7&center=true&vCenter=true&repeat=false&width=230&lines=%F0%9F%8C%9FVirtual+machines)](https://git.io/typing-svg)
 
 
 
